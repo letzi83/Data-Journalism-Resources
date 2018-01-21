@@ -26,6 +26,8 @@ There are tons of data related newsletters out there, my inbox regularly flows o
 
 [**Online Journalism Blog**](https://onlinejournalismblog.com/) by [Paul Bradshaw](https://twitter.com/paulbradshaw)
 
+[**Junk Charts**](http://junkcharts.typepad.com/junk_charts/) by [Kaiser Fung](https://twitter.com/junkcharts)
+
 ## Single articles worth reading
 
 [**1 dataset, visualized 25 ways**](http://flowingdata.com/2017/01/24/one-dataset-visualized-25-ways/) by [Nathan Yau (Flowing Data)](https://twitter.com/flowingdata): For some reason, people love maps. And there seems to be the urge to make many visualization as a map that would have been way more effective in telling the story as another visual form. Nathan Yau's post shows how the story the visual tells changes depending on it's form - as you can see there's not just one or two but 25 ways to visualize the same data.
