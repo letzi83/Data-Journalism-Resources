@@ -4,7 +4,7 @@ Link to this collection: [http://bit.ly/ddj-resources](http://bit.ly/ddj-resourc
 
 When teaching data journalism some questions always reoccur: What are useful tools? Which books and blogs should I read to learn more? Where can I find data? 
 
-This collection of lists (and lists of lists) is aiming at answering those and will be continously updated. Probably its nature is non-exhaustive, but rather based on my personal experience as a data journalist and ddj teacher.
+This collection of lists (and lists of lists) is aiming at answering those and will be continously updated. Probably its nature is non-exhaustive, but rather based on my personal experience as a data journalist and data journalism trainer.
 
 I'm happy for any hints and comments either via pull requests or email to gcgruen [at] gmail [dot] com
 
@@ -15,6 +15,7 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 - [List of tools](ddj-tools-list.md)
 - [List of data sources](ddj-data-sources.md)
 - [List of visualization catalogues](data-visualization-catalogues.md)
+- [List of data journalism community options](ddj-community.md)
 - [List of everything that did not fit in the other lists](ddj-even-more-list.md)
 - [List of lists with exemplary ddj pieces](list-of-lists-ddj-examples.md)
 
