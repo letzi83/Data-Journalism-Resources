@@ -4,7 +4,7 @@ When teaching data journalism some questions always reoccur: What are useful too
 
 This collection of lists (and lists of lists) is aiming at answering those and will be continously updated. Probably its nature is non-exhaustive, but rather based on my personal experience as a data journalist and ddj teacher.
 
-Hints and comments either via pull requests or email to gcgruen [at] gmail [dot] com
+I'm happy for any hints and comments either via pull requests or email to gcgruen [at] gmail [dot] com
 
 ## Topic overview
 
@@ -17,5 +17,6 @@ Hints and comments either via pull requests or email to gcgruen [at] gmail [dot]
 - [List of lists with exemplary ddj pieces](list-of-lists-ddj-examples.md)
 
 
-*Compiled by [@giannagruen](twitter.com/giannagruen)* 
+### Usage and license
+*Compiled by [@giannagruen](twitter.com/giannagruen).* 
 *Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email*
