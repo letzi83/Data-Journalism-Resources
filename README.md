@@ -8,13 +8,14 @@ Hints and comments either via pull requests or email to gcgruen [at] gmail [dot]
 
 ## Topic overview
 
-[List of reading options (Newsletters, Blogs, Books)](ddj-reading-options.md)
-[List of learning resources](ddj-learning-resources.md)
-[List of tools](ddj-tools-list.md)
-[List of data sources](ddj-data-sources.md)
-[List of visualization catalogues](data-visualization-catalogues.md)
-[List of everything that did not fit in the other lists](ddj-even-more-list.md)
-[List of lists with exemplary ddj pieces](list-of-lists-ddj-examples.md)
+- [List of reading options (Newsletters, Blogs, Books)](ddj-reading-options.md)
+- [List of learning resources](ddj-learning-resources.md)
+- [List of tools](ddj-tools-list.md)
+- [List of data sources](ddj-data-sources.md)
+- [List of visualization catalogues](data-visualization-catalogues.md)
+- [List of everything that did not fit in the other lists](ddj-even-more-list.md)
+- [List of lists with exemplary ddj pieces](list-of-lists-ddj-examples.md)
 
 
+*Compiled by [@giannagruen](twitter.com/giannagruen)* 
 *Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email*
