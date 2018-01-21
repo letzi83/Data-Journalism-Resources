@@ -17,6 +17,6 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 - [List of lists with exemplary ddj pieces](list-of-lists-ddj-examples.md)
 
 
-### Usage and license
+#### Usage and license
 *Compiled by [@giannagruen](twitter.com/giannagruen).* 
-*Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email*
+*Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email.*
