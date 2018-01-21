@@ -4,7 +4,7 @@ Link to this page: [http://bit.ly/ddj-reading-options](http://bit.ly/ddj-reading
 ## Newsletters
 There are tons of data related newsletters out there, my inbox regularly flows over with inspiration and I have subscribed to many more than the below mentioned, however it's those five I _always_ open and _never_ am disappointed, as every time I find something that's worthwile following up on.
 
-[**Data is plural**](https://tinyletter.com/data-is-plural) by [Jeremy Singer-Vine](https://twitter.com/jsvine)
+[**Data is plural**](https://tinyletter.com/data-is-plural) by [Jeremy Singer-Vine](https://twitter.com/jsvine) features interesting datasets, whereas all others generally feature data journalism projects
 
 [**Weekly Filet**](https://weeklyfilet.com/) by [David Bauer](https://twitter.com/davidbauer)
 
