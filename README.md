@@ -1,5 +1,7 @@
 # Data journalism lists project
 
+Link to this collection: [http://bit.ly/ddj-resources](http://bit.ly/ddj-resources)
+
 When teaching data journalism some questions always reoccur: What are useful tools? Which books and blogs should I read to learn more? Where can I find data? 
 
 This collection of lists (and lists of lists) is aiming at answering those and will be continously updated. Probably its nature is non-exhaustive, but rather based on my personal experience as a data journalist and ddj teacher.
