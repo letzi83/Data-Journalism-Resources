@@ -13,7 +13,7 @@ And in fact, with the tools available online and mostly free, you can already do
 So here's what should be in a data journalist's toolbox:
 
 ## Speadsheet software
-You will need some sort of speadsheet software, it can be **Excel** (paid) or **Open Office** oder **Google Spreadsheets** - it actually does not matter which one you use, they all have the same functions you need to work with data.
+You will need some sort of speadsheet software, it can be [Excel](https://products.office.com/en/excel) or [Open Office](https://www.openoffice.org/) as a a free and open-source alternative or [Google Spreadsheets](https://www.google.com/sheets/about/) - it actually does not matter which one you use, they all have the same functions you need to work with data.
 
 When learning to work with any tool really, the search engine of your choice is your best friend: You are very likely to run into problems and also very likely someone else has had the same problem before you, wrote his problem somewhere on the internet and some other person explained how to solve it. So whenever you feel stuck - ask the internet for help!
 
@@ -70,7 +70,7 @@ There are many tools out there, all with various functions:
 Of course, there are more, like [Highcharts](https://www.highcharts.com/), [Mapbox](https://www.mapbox.com/) and [Leaflet.js](http://leafletjs.com/) for example. But the above ones are definitely good starting points.
 
 ## Design Tools
-The above tools all include the option to customize a chart's design. If you want to go beyond the offered options, I would suggest using a **design software** like [Adobe Illustrator]() or [Inkscape]() as an alternative.
+The above tools all include the option to customize a chart's design. If you want to go beyond the offered options, I would suggest using a **design software** like [Adobe Illustrator](http://www.adobe-students.com/de/creativecloud/buy/students.html?sdid=KKTIB&mv=search&s_kwcid=AL!3085!3!186073542703!b!!g!!adobe%20illustrator%20creative%20cloud&ef_id=WVIVLQAAAHNc5D2H:20180121181424:s) or [Inkscape](https://inkscape.org/en/) as a free and open-source alternative.
 
 If you want to **create your own color palette**, check our [coolors.co](coolors.co) or [colorbrewer2.org](colorbrewer2.org).
 
@@ -83,8 +83,8 @@ In my daily work I found some **Browser-Plugins** to be really useful for design
 
 Of course I am not the first one to write down a list of data journalism tools. There are maaaaaany others who already did this, in a way more beautiful way. For example:
 
-- [Data Jouranlism Tool Collection](http://journocode.com/data-journalism-tools/) by [Journocode](https://twitter.com)
-- [Data Jouranlism Tools](https://datajournalism.tools) with a task-based search function by [Yael de Naan](https://twitter.com/yaeldehaan), [Renée van der Nat](https://twitter.com/mechanicalangel) and [Winny De Jong](https://twitter.com/winnydejong) 
+- [Data Journalism Tool Collection](http://journocode.com/data-journalism-tools/) by [Journocode](https://twitter.com)
+- [Data Journalism Tools](https://datajournalism.tools) with a task-based search function by [Yael de Naan](https://twitter.com/yaeldehaan), [Renée van der Nat](https://twitter.com/mechanicalangel) and [Winny De Jong](https://twitter.com/winnydejong) 
 - [Dataviz Tools](http://dataviz.tools/) by [Carl V. Lewis](https://twitter.com/carlvlewis)
 
 Besides these collections, there are **websites naming essential tools**
@@ -94,3 +94,11 @@ Besides these collections, there are **websites naming essential tools**
 - the [Knight Center of the University of Texas](https://knightcenter.utexas.edu/blog/00-14184-6-more-digital-tools-your-data-journalism-kit)
 - the [European Journalism Centre](http://datadrivenjournalism.net/resources)  
 
+
+
+
+
+
+##### Usage and license
+*Compiled by [@giannagruen](twitter.com/giannagruen).* 
+*Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email.*
