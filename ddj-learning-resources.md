@@ -14,7 +14,7 @@ A few I would like to specifically highlight:
 
 [**Open Tech School**](http://www.opentechschool.org/) is a hybrid between online and offline courses: They have bunch of tutorials online (for example on [Python and Javascript](http://learn.opentechschool.org/)) and local groups that regularly meet up all across Europe. It's free of cost.
 
-[**Columbia University's Lede Program**](http://ledeprogram.com/) is the one where I learnt coding. It's very expensive and I believe the ability to learn journalism skills should not be linked to your income - however, this was worth every dollar.
+[**Columbia University's Lede Program**](http://ledeprogram.com/) is the one where I learnt coding. It's very expensive (roughly $14,000 US-dollar tuition fees for the shorter Lede12) and I believe the ability to learn journalism skills should not be linked to your income - however, this was worth every dollar.
 
 
 
