@@ -62,3 +62,10 @@ Then there was this one conference talk by [Gregor Aisch](https://twitter.com/dr
 [**Visual Display of Quantitative Information**](https://www.edwardtufte.com/tufte/books_vdqi) by Edward Tufte: You don't have to agree with Tufte's minimalist approach to visualization, but you should at least know about his philosopy and the idea of the data-ink-ratio.
 
 [**How not to be wrong: The Power of Mathematical Thinking**](https://www.amazon.de/gp/product/0143127535/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) by [Jordan Ellenberg](http://www.math.wisc.edu/~ellenber/): Because the "I was bad at math back in school" is a lame argument made by too many journalists. This book is super entertainingly written and anything but a dry math lecture. Also: who does not want not to be wrong?!
+
+
+
+
+##### Usage and license
+*Compiled by [@giannagruen](twitter.com/giannagruen).* 
+*Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email.*

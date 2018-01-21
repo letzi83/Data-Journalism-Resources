@@ -1,1 +1,1 @@
-# lists-project
+# Data journalism learning resources

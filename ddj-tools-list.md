@@ -33,7 +33,7 @@ If you have a speadsheet software, you already can do some data cleaning with th
 However, sometimes data too messy for the spreadsheet software to handle; for example when you have a date that is formatted like `(MM/DD/YYYY)` but you want it to be `YYYY-MM-DD`. Find and Replace won't be of much help for that. Instead you need a 
 
 **Text Editor**
-This does not refer to the "Text Editor" preinstalled, but to a software like **Sublime Text** or **Atom**. Why? Because they are capable of searching for something called **Regular Expressions** (abbreviated: `.*`). It's like a secret language because letters, numbers and signs are encoded in symbols like `D` or `s` and thereby allows you to search for patterns and alter them. Like every secret language you have to put a little bit of effort into learning it, but then it's magical, because it allows you to perform the above task in less than a minute! There are multiple Regex manuals online - I often used [this list](http://www.rexegg.com/regex-quickstart.html) and [this list](http://www.petefreitag.com/cheatsheets/regex/) for reference, but there are also tools letting you [practise regex online](https://regexr.com/). After some practice (just one project where you do lots of it) you'll know it by heart.
+This does not refer to the "Text Editor" preinstalled, but to a software like [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/). Why? Because they are capable of searching for something called **Regular Expressions** (abbreviated: `.*`). It's like a secret language because letters, numbers and signs are encoded in symbols like `D` or `s` and thereby allows you to search for patterns and alter them. Like every secret language you have to put a little bit of effort into learning it, but then it's magical, because it allows you to perform the above task in less than a minute! There are multiple Regex manuals online - I often used [this list](http://www.rexegg.com/regex-quickstart.html) and [this list](http://www.petefreitag.com/cheatsheets/regex/) for reference, but there are also tools letting you [practise regex online](https://regexr.com/). After some practice (just one project where you do lots of it) you'll know it by heart.
 
 Another use of text editors is that they allow you to save files in different encodings like `utf-8` or `latin-1`; rule-of-thumb: whenever letters look weird (replaced by % or ~ or ?) you probably ran into an encoding issue and should try saving that file with another encoding.
 
@@ -43,14 +43,14 @@ Sometimes data cleaning is not about date formats, but you have a list of names 
 ## Tools to find or gather data
 If you don't have data for your project yet, you of course go search for it. 
 
-When doing that [**Google Advanced Search**](https://www.google.com/advanced_search) is your best friend (or any other search engines with the following operators). Because in addition to typing your search terms and the word data in front of it, it lets you add `filetype:xls` or `filetype:csv` and it will only search for files of this type. This benefit is its disadvantage at the same time, because if your data is stored in a pdf file it won't be found in a `filetype:csv` search. So make sure to search with and without `filetype`. Also useful is the `site:` operator that only searches for results under the url you put after that operator.
+When doing that [Google Advanced Search](https://www.google.com/advanced_search) is your best friend (or any other search engines with the following operators). Because in addition to typing your search terms and the word data in front of it, it lets you add `filetype:xls` or `filetype:csv` and it will only search for files of this type. This benefit is its disadvantage at the same time, because if your data is stored in a pdf file it won't be found in a `filetype:csv` search. So make sure to search with and without `filetype`. Also useful is the `site:` operator that only searches for results under the url you put after that operator.
 
 Note that Search Engines do not index what is inside a database - so instead you have to search for a database then go to its webpage and search for adequate files there.
 
 Sometimes the data you want or need is not there in a spreadsheed, but maybe hidden in a pdf or as a table imprinted on a website. Then it's time for **Scraping**. 
 
 **Scraping from Websites**
-When you don't know how to code, there are some options that help you do the job. For example Browser-Plugins like [Table2Clipboard](https://addons.mozilla.org/en-US/firefox/addon/dafizilla-table2clipboard/). Another option to scrape websites you can use the google spreadsheet pluging [**import.IO**](https://www.import.io/post/updated-bulk-extract-data-using-google-sheets/)
+When you don't know how to code, there are some options that help you do the job. For example Browser-Plugins like [Table2Clipboard](https://addons.mozilla.org/en-US/firefox/addon/dafizilla-table2clipboard/). Another option to scrape websites you can use the google spreadsheet pluging [import.IO](https://www.import.io/post/updated-bulk-extract-data-using-google-sheets/)
 
 **Scraping from PDFs**
 If you have a nice table, but it's imprinted in a pdf, you can use [Tabula](http://tabula.technology/) or a web-based alternative - for all of you who don't have admin-rights on their work-computers - [CometDocs](https://www.cometdocs.com/) to free your data! 
@@ -75,9 +75,9 @@ The above tools all include the option to customize a chart's design. If you wan
 If you want to **create your own color palette**, check our [coolors.co](coolors.co) or [colorbrewer2.org](colorbrewer2.org).
 
 In my daily work I found some **Browser-Plugins** to be really useful for design tasks:
-- WhatFont?:Identifies font on a webpage
-- Colorzilla: picks colors from webpages
-- MeasureIt: virtual ruler meausring specs of elements on a page
+- [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Identifies font on a webpage
+- [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) picks colors from webpages
+- [MeasureIt](https://addons.mozilla.org/en-US/firefox/addon/measureit/) virtual ruler meausring specs of elements on a page
 
 ## More
 
