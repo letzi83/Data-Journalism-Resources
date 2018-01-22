@@ -8,7 +8,7 @@ If you want to go beyond, here's an ever-growing [list](http://bit.ly/learning-d
 
 A few I would like to specifically highlight:
 
-[**Learno by the European Journalism Centre**](http://learno.net/) offers a set of online courses on specific data journalism-related topics like Cleaning data in Excel or Mapping for journalists. It's free of cost.
+[**Learno by the European Journalism Centre**](http://learno.net/) offers a set of online courses on specific data journalism-related topics like Cleaning data in Excel or Mapping for journalists. It's free of cost. Similar to this is the [**School of Data**](https://schoolofdata.org/#)
 
 [**Knight Center of the University of Texas**](https://knightcenter.utexas.edu/distancelearning) was the first ddj MOOC I participated in - and it was awesome! You have weekly video tutorials, readings and little projects to work through each week. A crucial part is also to give feedback to others and thereby learn how to critique data visualizations. They do not only offer ddj courses, but also on other journalism topics. It's pretty low cost (60 to 90 dollars).
 
