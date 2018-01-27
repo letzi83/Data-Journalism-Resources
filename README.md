@@ -16,8 +16,10 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 - [List of data sources](ddj-data-sources.md)
 - [List of visualization catalogues](data-visualization-catalogues.md)
 - [List of data journalism community options](ddj-community.md)
-- [List of everything that did not fit in the other lists](ddj-even-more-list.md)
 - [List of lists with exemplary ddj pieces](list-of-lists-ddj-examples.md)
+- [List of reasons for doing data journalism](why-data-journalism.md)
+- [List of everything that did not fit in the other lists](ddj-even-more-list.md)
+
 
 
 #### Usage and license
