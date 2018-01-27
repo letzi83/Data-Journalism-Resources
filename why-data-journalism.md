@@ -1,10 +1,11 @@
 # Why data journalism?
 
-Link to this page:
+Link to this page: http://bit.ly/why-ddj
 
 *This post firstly appeared in [Journocode](https://journocode.com/)'s [advent calendar](https://advent17.journocode.com/door/22/)*
 
-##Why media outlets should invest in data journalism
+## Why media outlets should invest in data journalism
+
 **The benefit of data journalism cannot necessarily be measured in clicks or likes. Its advantages are rather qualitative than quantitative – but investment will pay off, in the long run. Here's why.**
 
 **Create news instead of covering it**
@@ -24,7 +25,7 @@ This is a cheap argument, but if the above ones don't work, maybe we can count o
 
 
 
-##If you need more people telling you this
+## If you need more people telling you this
 
 - Data Journalism Handbook: [Why is data journalism important?](http://datajournalismhandbook.org/1.0/en/introduction_2.html) and [Why jouranlists should use data](http://datajournalismhandbook.org/1.0/en/introduction_1.html)
 
