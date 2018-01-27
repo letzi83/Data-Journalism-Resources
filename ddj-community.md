@@ -7,6 +7,8 @@ The data journalism community both online and offline is great and I find it alw
 
 ## Conferences
 
+*If you can't afford ticket fees or travel expenses, I highly recommend the [Journalism Code Ticket + Travel Scholarships by Knight-funded OpenNews](https://opennews.org/what/community/scholarships/) (I applied for it myself once, it's uncomplicated and unbureaucratic) With their help, you can cover the ticket fee and receive 500 US-Dollar to cover travel expenses*
+
 [**NICAR conference**](https://ire.org/conferences/nicar18/) in changing locations in the US - in March
 
 [**International Journalism Festival**](https://www.journalismfestival.com/) in Perugia, Italy - in April
