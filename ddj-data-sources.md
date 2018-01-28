@@ -21,7 +21,7 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 ## Data by internationally operating organisations (under construction, tbc)
 
-[FAO](http://www.fao.org/faostat/en/#data)
+[FAO Data](http://www.fao.org/faostat/en/#data): The Food and Agriculture Organization of the UN holds information on food security, agriculture, land use, fishery, lands rights, agricultural market information and much more. Here's an [overview of their databases](http://www.fao.org/statistics/databases/en/)
 
 [OECD Data](https://data.oecd.org/) and [OECD Data Lab](http://www.oecd.org/statistics/datalab/) is also worth checking out
 
@@ -31,11 +31,13 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 [WHO Data Repository](http://apps.who.int/gho/data/node.home)
 
-[World Bank Data](https://data.worldbank.org/)data
+[World Bank Data](https://data.worldbank.org/)
 
+[World Resoure Institute's Maps and Data section](http://www.wri.org/resources) has both, datasets you can work with as well as already produced datavisualizations 
 
 ## Data by region (under construction, tbc)
 
+**European Union**
 [Eurostat Database](http://ec.europa.eu/eurostat/data/database)
 
 Europe geospatial information: [Explainer on different "NUTS" levels]](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts)
