@@ -6,7 +6,7 @@ Link to this page: http://bit.ly/ddj-data-sources
 
 [ProPublica](https://www.propublica.org/) has published all its datasets in use in the [**ProPublica Datastore**](https://www.propublica.org/datastore/) so you can tell your own story with it.
 
-[Quartz]() has created this [**Directory of Essential Data**](https://docs.google.com/spreadsheets/d/1hU7Snj4KZ-ppyy388l-sV4I26n4yGVb8xYnygPOS-5k/edit#gid=0) that gives a topic-wise overview of data source options.
+[Quartz](https://qz.com/) has created this [**Directory of Essential Data**](https://docs.google.com/spreadsheets/d/1hU7Snj4KZ-ppyy388l-sV4I26n4yGVb8xYnygPOS-5k/edit#gid=0) that gives a topic-wise overview of data source options.
 
 Does my country have an **Open Data** Portal I could source? [Data Portals](http://dataportals.org/) by the [Open Knowledge International](https://okfn.org/) has you covered.
 
@@ -21,7 +21,7 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 ## Data by internationally operating organisations (under construction, tbc)
 
-[FAO Data](http://www.fao.org/faostat/en/#data): The Food and Agriculture Organization of the UN holds information on food security, agriculture, land use, fishery, lands rights, agricultural market information and much more. Here's an [overview of their databases](http://www.fao.org/statistics/databases/en/)
+[FAO Data](http://www.fao.org/faostat/en/#data): The Food and Agriculture Organization of the UN holds information on food security, agriculture, land use, fishery, lands rights, agricultural market information and much more. Here's an [overview of their databases](http://www.fao.org/statistics/databases/en/).
 
 [OECD Data](https://data.oecd.org/) and [OECD Data Lab](http://www.oecd.org/statistics/datalab/) is also worth checking out
 
