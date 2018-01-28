@@ -1,1 +1,54 @@
-# lists-project
+# Data sources
+
+Link to this page: http://bit.ly/ddj-data-sources
+
+## Collections
+
+[ProPublica](https://www.propublica.org/) has published all its datasets in use in the [**ProPublica Datastore**](https://www.propublica.org/datastore/) so you can tell your own story with it.
+
+[Quartz]() has created this [**Directory of Essential Data**](https://docs.google.com/spreadsheets/d/1hU7Snj4KZ-ppyy388l-sV4I26n4yGVb8xYnygPOS-5k/edit#gid=0) that gives a topic-wise overview of data source options.
+
+Does my country have an **Open Data** Portal I could source? [Data Portals](http://dataportals.org/) by the [Open Knowledge International](https://okfn.org/) has you covered.
+
+With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data journalist [Jeremy Singer-Vine](https://twitter.com/jsvine) creates a growing **list of interesting datasets** - you can check out the newsletter's archive [here](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit).
+
+[**Our World in Data**](https://ourworldindata.org/) by [Max Roser](https://twitter.com/MaxCRoser) is not only a great starting point to find topic-based data sources, but also to see how data visualizations and text can go together.
+
+[**Pew Research Dataset Collection**](http://www.pewresearch.org/download-datasets/) holds survey data on different topics like US politics, public life, journalism and media and social and demographic trends.
+
+[**Data World**](https://data.world/) aims at being social platform and data sharing tool at once - sometimes it holds great finds.
+
+
+## Data by internationally operating organisations (under construction, tbc)
+
+[FAO](http://www.fao.org/faostat/en/#data)
+
+[OECD Data](https://data.oecd.org/) and [OECD Data Lab](http://www.oecd.org/statistics/datalab/) is also worth checking out
+
+[UN Data](http://data.un.org/) pools data of all UN agencies; but sometimes it's worth it to check out the specific agency website as it might hold more up-to-date information.
+
+[UNEP Environmental Data Explorer](http://geodata.grid.unep.ch/)
+
+[WHO Data Repository](http://apps.who.int/gho/data/node.home)
+
+[World Bank Data](https://data.worldbank.org/)data
+
+
+## Data by region (under construction, tbc)
+
+[Eurostat Database](http://ec.europa.eu/eurostat/data/database)
+
+Europe geospatial information: [Explainer on different "NUTS" levels]](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts)
+
+## Data by country (under construction, tbc)
+
+| Country     | Statistical Office    | GEO Information    |
+|-------------|-----------------------|--------------------|
+| Germany	  | [Destatis](https://www-genesis.destatis.de/genesis/online/logon?language=en)			  | [Geodatenzentrum](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=eng&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)|
+
+
+
+
+##### Usage and license
+*Compiled by [@giannagruen](twitter.com/giannagruen).* 
+*Feel free to use, share, edit these collections for non-commercial use under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. For purposes not covered under that license, please feel free to get in touch via the above mentioned email.*
