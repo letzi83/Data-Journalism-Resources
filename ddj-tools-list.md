@@ -50,7 +50,7 @@ Note that Search Engines do not index what is inside a database - so instead you
 Sometimes the data you want or need is not there in a spreadsheed, but maybe hidden in a pdf or as a table imprinted on a website. Then it's time for **Scraping**. 
 
 **Scraping from Websites**
-When you don't know how to code, there are some options that help you do the job. For example Browser-Plugins like [Table2Clipboard](https://addons.mozilla.org/en-US/firefox/addon/dafizilla-table2clipboard/). Another option to scrape websites you can use the google spreadsheet pluging [import.IO](https://www.import.io/post/updated-bulk-extract-data-using-google-sheets/)
+When you don't know how to code, there are some options that help you do the job. For example Browser-Plugins like [Table2Clipboard](https://addons.mozilla.org/en-US/firefox/addon/dafizilla-table2clipboard/). Another option to scrape websites you can use the google spreadsheet pluging [import.IO](https://www.import.io/post/updated-bulk-extract-data-using-google-sheets/). If none of these do work, you have to step up and learn a programming language like Python or R to scrape more complex pages. Here's a [useful tutorial](https://data-lessons.github.io/library-webscraping/) starting at the very basics.
 
 **Scraping from PDFs**
 If you have a nice table, but it's imprinted in a pdf, you can use [Tabula](http://tabula.technology/) or a web-based alternative - for all of you who don't have admin-rights on their work-computers - [CometDocs](https://www.cometdocs.com/) to free your data! 
