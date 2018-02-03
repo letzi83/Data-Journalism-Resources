@@ -15,7 +15,11 @@ The [**Visual Vocabulary**](https://github.com/ft-interactive/chart-doctor/blob/
 
 The [**Viusalization Universite**](http://visualizationuniverse.com/) by [Anna Vitals](https://twitter.com/annavitals), [Mark Vital](https://twitter.com/markvitals) and [Alexander Vushkan](https://twitter.com/alexzender) takes a more playful approach - that took me some time to get used to it, but if you are down for this kind of presentation it's definitely worth exploring: They have a section on charts, books and tools.
 
-On a more practical side this [**Step-by-Step Design Guide for Data visualizations**](http://designingviz.com/) created by [Jonathan Soma](http://jonathansoma.com/) gives you what the title already promises: very on-point design advice for specific elements of a visualization (think scales, axes, colors). This [**Data visualization guidelines**](https://schoolofdata.org/2013/04/26/data-visualization-guidelines-by-gregor-aisch-international-journalism-festival/) by [Gregor Aisch](https://driven-by-data.net/) are a little bit older, but still today can help you avoid common mistakes and create better charts.
+On a more practical side this [**Step-by-Step Design Guide for Data visualizations**](http://designingviz.com/) created by [Jonathan Soma](http://jonathansoma.com/) gives you what the title already promises: very on-point design advice for specific elements of a visualization (think scales, axes, colors). 
+
+If you want to move more into the **world of mapping**, check out this Carto blog post asking (and answering) the question [Which map should I make?](https://carto.com/academy/courses/intermediate-design/which-kind-of-map-should-i-make/)
+
+This [**Data visualization guidelines**](https://schoolofdata.org/2013/04/26/data-visualization-guidelines-by-gregor-aisch-international-journalism-festival/) by [Gregor Aisch](https://driven-by-data.net/) are a little bit older, but still today can help you avoid common mistakes and create better charts. 
 
 
 
