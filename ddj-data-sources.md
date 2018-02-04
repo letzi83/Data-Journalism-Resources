@@ -40,7 +40,7 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 **European Union**
 [Eurostat Database](http://ec.europa.eu/eurostat/data/database)
 
-Europe geospatial information: [Explainer on different "NUTS" levels]](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts)
+Europe geospatial information: [Explainer on different "NUTS" levels](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts)
 
 ## Data by country (under construction, tbc)
 
