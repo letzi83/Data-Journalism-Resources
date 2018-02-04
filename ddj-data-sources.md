@@ -40,7 +40,16 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 **European Union**
 [Eurostat Database](http://ec.europa.eu/eurostat/data/database)
 
-Europe geospatial information: [Explainer on different "NUTS" levels](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts)
+Europe geospatial information: [Explainer on different "NUTS" levels](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).
+And because none of the above really explains the EU file nomenclature:
+
+NUTS_AT files -- contain an overview with NUTS_IDs, country codes, and region names (in NUTS, Latin, ASCII and HTML spelling - beware, encoding issues ahead. In English language system settings you can open them via import and file encoding "windows lating 1")
+
+NUTS_LB files -- locate cities
+
+NUTS_BN files -- have the border lines as lines and not as polygons
+
+NUTS_RG files -- is what you need if you want to make a choropleth map of Europe. It contains polygons of the different European geospatial units.
 
 ## Data by country (under construction, tbc)
 
