@@ -16,6 +16,7 @@ A few I would like to specifically highlight:
 
 [**Columbia University's Lede Program**](http://ledeprogram.com/) is the one where I learnt coding. It's very expensive (roughly $14,000 US-dollar tuition fees for the shorter Lede12) and I believe the ability to learn journalism skills should not be linked to your income - however, this was worth every dollar.
 
+If you want to get a very first grip on **statistics**, there's this great [online course with additional resources](https://www.statslife.org.uk/resources/for-journalists/courses/1880-statistics-for-journalists) by the British Royal Society of Statistics that you should definitely check out as a starting point.
 
 
 
