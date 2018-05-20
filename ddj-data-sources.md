@@ -37,10 +37,38 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 ## Data by region (under construction, tbc)
 
-**European Union**
-[Eurostat Database](http://ec.europa.eu/eurostat/data/database)
+**European Union: datasets**
 
-Europe geospatial information: [Explainer on different "NUTS" levels](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).
+When it comes to data concerning the member states of the European Union, there are two main databases you should know.
+
+My first go-to place is the [Eurostat database](http://ec.europa.eu/eurostat/data/database)
+
+Note that it has two different sections, the upper part containing links to the actual databases, whereas the lower part contains tables that are aggregates of the upper part and lack an overview of what more indicators are possibly listed in the dataset. 
+![](img/Eurostat-Tree-overview.png)
+
+So I always would suggest to use the database-part. This part is sorted by themes and you can click on the little plus signs to get a more detailed overview of what entries are contained.
+![](img/Eurostat-Tree-dropdowns)
+
+On the lowest level, each entry has a little table icon and a yellow zip icon in the front, and a blue info icon at the end. If you click on the latter you get an overview of the timespan covered and info when it was last updated. At the end of each title you have in parenthesis the unique identifier for this dataset, that's crucial to trace it back.
+If you click on the first table icon, you are redirected to the database entry. 
+
+At the very bottom of the tree, there are two important dropdowns
+"Newly added datasets"
+and 
+"Recently updated datasets"
+I guess both titles are self-explanatory.
+
+There's an API you can use to query the database, you can find more information [here](http://ec.europa.eu/eurostat/web/sdmx-web-services/rest-sdmx-2.1)
+
+Alternatively, you could also build a request/post or selenium scraper that runs regularly, as the URLs for each database entry are structured similarly. You just have to replace the unique identifier after "dataset=" in the url
+
+http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyctz&lang=en
+
+Other than Eurostat, the second important database is the [EU Open Data Portal](http://data.europa.eu/euodp/en/data). It pulls data from Eurostat, but also datasets from other EU agencies. Contrary to the above Eurostat tree of datasets, here you have to know a search term to look for (apart from things like 'most popular' for example)
+
+This one too has an API to query the database, you can find information on how to do that [here](http://data.europa.eu/euodp/en/developerscorner)
+
+**European Union: geospatial information**: [Explainer on different "NUTS" levels](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).
 And because none of the above really explains the EU file nomenclature:
 
 NUTS_AT files -- contain an overview with NUTS_IDs, country codes, and region names (in NUTS, Latin, ASCII and HTML spelling - beware, encoding issues ahead. In English language system settings you can open them via import and file encoding "windows lating 1")
