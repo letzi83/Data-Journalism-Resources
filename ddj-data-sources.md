@@ -70,7 +70,7 @@ Within the entry, only a selection of what is in the database is displayed to yo
 ![](img/Eurostat-Change-Selection.png)
 
 
-There's an API you can use to query the database, you can find more information [here](http://ec.europa.eu/eurostat/web/sdmx-web-services/rest-sdmx-2.1)
+There's an **API** you can use to query the database, you can find more information [here](http://ec.europa.eu/eurostat/web/sdmx-web-services/rest-sdmx-2.1)
 
 Alternatively, you could also build a request/post or selenium scraper that runs regularly, as the URLs for each database entry are structured similarly. You just have to replace the unique identifier after `dataset=` in the url
 
@@ -78,7 +78,7 @@ Alternatively, you could also build a request/post or selenium scraper that runs
 
 Other than the Eurostat database, the second important database is the [**EU Open Data Portal**](http://data.europa.eu/euodp/en/data). It pulls data from Eurostat, but also datasets from other EU agencies. Contrary to the above Eurostat tree of datasets, here you have to know a search term to look for (apart from things like 'most popular' for example)
 
-This one too has an API to query the database, you can find information on how to do that [here](http://data.europa.eu/euodp/en/developerscorner)
+This one too has an **API** to query the database, you can find information on how to do that [here](http://data.europa.eu/euodp/en/developerscorner)
 
 **European Union: geospatial information**: [Explainer on different "NUTS" levels](http://ec.europa.eu/eurostat/web/nuts), various [national structures existing in the EU countries](http://ec.europa.eu/eurostat/web/nuts/national-structures-eu), their [relation to post codes](http://ec.europa.eu/eurostat/web/nuts/correspondence-tables/postcodes-and-nuts), plus an [overview of available geoinformation](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units) and finally: actual [geodata in different formats](http://ec.europa.eu/eurostat/de/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).
 And because none of the above really explains the EU file nomenclature:
