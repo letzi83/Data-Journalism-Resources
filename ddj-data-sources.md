@@ -63,7 +63,7 @@ If you click on the first table icon, you are redirected to the database entry.
 
 When you are in an entry, there are several important elements. 1) The unique identifier that you should keep track of to refind your dataset. 2) Information on when this dataset was last updated. 3) The URL that contains the unique identifier and allows you to refind the table 4) Metadata, containing detailed information on definitions and possible breaks in time series for example. 5) Plus signs that allow you to add more data from the database to your selection 6) the download area, once you have selected all the data you need.
 
-![](Eurostat-Database-entry.png)
+![](Eurostat-Database-entry)
 
 Within the entry, only a selection of what is in the database is displayed to you. If you click on the download button, only variables that are contained in the dropdowns are downloaded. If you want to add more, you can click on any of the plus signs and you'll be transferred to the updating dialogue, where you see what all the possible data are that you can get -- (7) tick the boxes of the variables you want to be contained in your download. You can use the tabs (8) to navigate through the other parameters and their variables without leaving this dialogue overlay. When the font in the header area (9) turns read you have selected more variables than can be downloaded at one time. Click (10) the update button to refresh the table with all your newly selected variables.
 
