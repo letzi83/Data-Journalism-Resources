@@ -41,7 +41,7 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 When it comes to data concerning the member states of the European Union, there are two main databases you should know.
 
-My first go-to place is the [Eurostat database](http://ec.europa.eu/eurostat/data/database)
+My first go-to place is the [**Eurostat database**](http://ec.europa.eu/eurostat/data/database)
 
 Note that it has two different sections, the upper part containing links to the actual databases, whereas the lower part contains tables that are aggregates of the upper part and lack an overview of what more indicators are possibly listed in the dataset. 
 
@@ -51,22 +51,32 @@ So I always would suggest to use the database-part. This part is sorted by theme
 
 ![](img/Eurostat-Tree-dropdowns.png)
 
-On the lowest level, each entry has a little table icon and a yellow zip icon in the front, and a blue info icon at the end. If you click on the latter you get an overview of the timespan covered and info when it was last updated. At the end of each title you have in parenthesis the unique identifier for this dataset, that's crucial to trace it back.
+At the very bottom of the tree, there are two important dropdowns
+"Newly added datasets" and "Recently updated datasets". I guess both titles are self-explanatory.
+
+![](Eurostat-Tree-bottom.png)
+
+If you clicked on as many plus signs as possible down to the lowest level, each entry has a little table icon and a yellow zip icon in the front, and a blue info icon at the end. If you click on the latter you get an info sheet with an overview of the timespan covered and info when it was last updated. At the end of each title you have in parenthesis the unique identifier for this dataset, that's crucial to trace it back.
 If you click on the first table icon, you are redirected to the database entry. 
 
-At the very bottom of the tree, there are two important dropdowns
-"Newly added datasets"
-and 
-"Recently updated datasets"
-I guess both titles are self-explanatory.
+![](Eurostat-Tree-LowestLevel.png)
+
+When you are in an entry, there are several important elements. 1) The unique identifier that you should keep track of to refind your dataset. 2) Information on when this dataset was last updated. 3) The URL that contains the unique identifier and allows you to refind the table 4) Metadata, containing detailed information on definitions and possible breaks in time series for example. 5) Plus signs that allow you to add more data from the database to your selection 6) the download area, once you have selected all the data you need.
+
+![](Eurostat-Database-entry.png)
+
+Within the entry, only a selection of what is in the database is displayed to you. If you click on the download button, only variables that are contained in the dropdowns are downloaded. If you want to add more, you can click on any of the plus signs and you'll be transferred to the updating dialogue, where you see what all the possible data are that you can get -- (7) tick the boxes of the variables you want to be contained in your download. You can use the tabs (8) to navigate through the other parameters and their variables without leaving this dialogue overlay. When the font in the header area (9) turns read you have selected more variables than can be downloaded at one time. Click (10) the update button to refresh the table with all your newly selected variables.
+
+![](Eurostat-Change-Selection.png)
+
 
 There's an API you can use to query the database, you can find more information [here](http://ec.europa.eu/eurostat/web/sdmx-web-services/rest-sdmx-2.1)
 
-Alternatively, you could also build a request/post or selenium scraper that runs regularly, as the URLs for each database entry are structured similarly. You just have to replace the unique identifier after "dataset=" in the url
+Alternatively, you could also build a request/post or selenium scraper that runs regularly, as the URLs for each database entry are structured similarly. You just have to replace the unique identifier after `dataset=` in the url
 
-http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyctz&lang=en
+`http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyctz&lang=en`
 
-Other than Eurostat, the second important database is the [EU Open Data Portal](http://data.europa.eu/euodp/en/data). It pulls data from Eurostat, but also datasets from other EU agencies. Contrary to the above Eurostat tree of datasets, here you have to know a search term to look for (apart from things like 'most popular' for example)
+Other than the Eurostat database, the second important database is the [**EU Open Data Portal**](http://data.europa.eu/euodp/en/data). It pulls data from Eurostat, but also datasets from other EU agencies. Contrary to the above Eurostat tree of datasets, here you have to know a search term to look for (apart from things like 'most popular' for example)
 
 This one too has an API to query the database, you can find information on how to do that [here](http://data.europa.eu/euodp/en/developerscorner)
 
