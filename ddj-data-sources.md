@@ -44,10 +44,12 @@ When it comes to data concerning the member states of the European Union, there 
 My first go-to place is the [Eurostat database](http://ec.europa.eu/eurostat/data/database)
 
 Note that it has two different sections, the upper part containing links to the actual databases, whereas the lower part contains tables that are aggregates of the upper part and lack an overview of what more indicators are possibly listed in the dataset. 
+
 ![](img/Eurostat-Tree-overview.png)
 
 So I always would suggest to use the database-part. This part is sorted by themes and you can click on the little plus signs to get a more detailed overview of what entries are contained.
-![](img/Eurostat-Tree-dropdowns)
+
+![](img/Eurostat-Tree-dropdowns.png)
 
 On the lowest level, each entry has a little table icon and a yellow zip icon in the front, and a blue info icon at the end. If you click on the latter you get an overview of the timespan covered and info when it was last updated. At the end of each title you have in parenthesis the unique identifier for this dataset, that's crucial to trace it back.
 If you click on the first table icon, you are redirected to the database entry. 
