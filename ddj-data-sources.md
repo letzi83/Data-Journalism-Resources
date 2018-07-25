@@ -93,6 +93,8 @@ NUTS_RG files -- is what you need if you want to make a choropleth map of Europe
 
 ## Data by country (under construction, tbc)
 
+Eurostat lists [contact details and release calendars](http://ec.europa.eu/eurostat/web/links/national_statistical_offices) for each member state's statistics office
+
 | Country     | Statistical Office    | GEO Information    |
 |-------------|-----------------------|--------------------|
 | Germany	  | [Destatis](https://www-genesis.destatis.de/genesis/online/logon?language=en)			  | [Geodatenzentrum](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=eng&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)|
