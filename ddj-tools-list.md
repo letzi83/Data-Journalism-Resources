@@ -72,7 +72,7 @@ Of course, there are more, like [Highcharts](https://www.highcharts.com/), [Mapb
 ## Design Tools
 The above tools all include the option to customize a chart's design. If you want to go beyond the offered options, I would suggest using a **design software** like [Adobe Illustrator](http://www.adobe-students.com/de/creativecloud/buy/students.html?sdid=KKTIB&mv=search&s_kwcid=AL!3085!3!186073542703!b!!g!!adobe%20illustrator%20creative%20cloud&ef_id=WVIVLQAAAHNc5D2H:20180121181424:s) or [Inkscape](https://inkscape.org/en/) as a free and open-source alternative.
 
-If you want to **create your own color palette**, check our [coolors.co](coolors.co) or [colorbrewer2.org](colorbrewer2.org).
+If you already know about the usage of colors and just want to find a suitable custom **colour palette** for your project, check out [colorbrewer2.org](colorbrewer2.org) or [coolors.co](coolors.co) or. If you are starting from scratch, you might want to read [this blog post](https://blog.datawrapper.de/colorguide/) by Lisa Charlotte Rost about the importance and usage of colors first - it also comes with a lot of recommendations for different tools to help you make good choices.
 
 In my daily work I found some **Browser-Plugins** to be really useful for design tasks:
 - [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Identifies font on a webpage
