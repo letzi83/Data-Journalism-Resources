@@ -69,6 +69,7 @@ There are many tools out there, all with various functions:
 
 - [Datawrapper](https://www.datawrapper.de/) is probably a good point to start
 - [Tableau](https://www.tableau.com/) is what I would recommend you to use if you feel Datawrapper does not give you enough options
+- [QGIS](https://qgis.org/en/site/forusers/download.html) is an open source mapping tool with myriads of customization options -- [here](https://gcgruen.github.io/teaching/qgis/index.html) you can find a tutorial I wrote on how to make a chorolpeth map in QGIS
 - [Carto](https://carto.com/) is what I use when I teach mapping. They recently did a relaunch and the community is kind of mixed over whether that was a good or a bad move. Datawrapper and Tableau both offer the option to make maps as well, but Carto still has some more features. 
 
 Of course, there are more, like [Highcharts](https://www.highcharts.com/), [Mapbox](https://www.mapbox.com/) and [Leaflet.js](http://leafletjs.com/) for example. But the above ones are definitely good starting points.
