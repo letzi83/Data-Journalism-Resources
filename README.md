@@ -11,8 +11,8 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 ## Topic overview
 
 - [List of reading options (Newsletters, Blogs, Books)](ddj-reading-options.md)
+- [List of tools & tutorials](ddj-tools-list.md)
 - [List of learning resources](ddj-learning-resources.md)
-- [List of tools](ddj-tools-list.md)
 - [List of data sources](ddj-data-sources.md)
 - [List of visualization catalogues](data-visualization-catalogues.md)
 - [List of data journalism community options](ddj-community.md)

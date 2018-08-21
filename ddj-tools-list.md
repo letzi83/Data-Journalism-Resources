@@ -1,4 +1,4 @@
-# Data journalism tools list
+# Data journalism tools & tutorials list
 
 Link to this page: [http://bit.ly/ddj-tools](http://bit.ly/ddj-tools)
 
@@ -44,6 +44,9 @@ Another use of text editors is that they allow you to save files in different en
 **Open Refine**
 Sometimes data cleaning is not about date formats, but you have a list of names like `Google, GOOGLE, gOOgle` or addresses that use different ways of typing the same information. You could do a lot of find and replace, but you can also use Open Refine, which recognizes similarity in data, groups them and asks you what your preferred output spelling version would be. It can also do some more analysis and again, there are many manuals on how to use it out there.
 
+#### Tutorial
+Here's a <a href="https://gcgruen.github.io/teaching/open-refine/">short tutorial</a> I wrote for Open Refine
+
 ## Tools to find or gather data
 If you don't have data for your project yet, you of course go search for it. 
 
@@ -71,7 +74,7 @@ There are many tools out there, all with various functions:
 - [Tableau](https://www.tableau.com/) is what I would recommend you to use if you feel Datawrapper does not give you enough options
 
 **Mapping**
-- [QGIS](https://qgis.org/en/site/forusers/download.html) is an open source mapping tool with myriads of customization options -- [here](https://gcgruen.github.io/teaching/qgis/index.html) you can find a tutorial I wrote on how to make a chorolpeth map in QGIS
+- [QGIS](https://qgis.org/en/site/forusers/download.html) is an open source mapping tool with myriads of customization options -- [here](https://gcgruen.github.io/teaching/qgis) you can find a tutorial I wrote on how to make a chorolpeth map in QGIS
 - [Carto](https://carto.com/) is what I use when I teach mapping. They recently did a relaunch and the community is kind of mixed over whether that was a good or a bad move. Datawrapper and Tableau both offer the option to make maps as well, but Carto still has some more features. 
 
 Of course, there are more, like [Highcharts](https://www.highcharts.com/), [Mapbox](https://www.mapbox.com/) and [Leaflet.js](http://leafletjs.com/) for example. But the above ones are definitely good starting points.
