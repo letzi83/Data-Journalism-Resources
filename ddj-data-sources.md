@@ -123,7 +123,11 @@ Eurostat lists [contact details and release calendars](http://ec.europa.eu/euros
 |-------------|-----------------------|--------------------|--------------------|
 | Germany	  | [Destatis](https://www-genesis.destatis.de/genesis/online/logon?language=en)			  | [Geodatenzentrum](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=eng&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)| [Police Crime Statistics](https://www.bka.de/EN/CurrentInformation/currentinformation_node.html)
 
+## Meta
 
+[ProPublica's Guide to bulletproof your data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
+
+[Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide)
 
 
 ##### Usage and license
