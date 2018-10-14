@@ -21,21 +21,45 @@ With his newsletter [Data is Plural](https://tinyletter.com/data-is-plural) data
 
 ## Data by internationally operating organisations (under construction, tbc)
 
+**General**
+
 [FAO Data](http://www.fao.org/faostat/en/#data): The Food and Agriculture Organization of the UN holds information on food security, agriculture, land use, fishery, lands rights, agricultural market information and much more. Here's an [overview of their databases](http://www.fao.org/statistics/databases/en/).
 
 [OECD Data](https://data.oecd.org/) and [OECD Data Lab](http://www.oecd.org/statistics/datalab/) is also worth checking out
 
 [UN Data](http://data.un.org/) pools data of all UN agencies; but sometimes it's worth it to check out the specific agency website as it might hold more up-to-date information.
 
-[UNEP Environmental Data Explorer](http://geodata.grid.unep.ch/)
-
-[WHO Data Repository](http://apps.who.int/gho/data/node.home)
-
 [World Bank Data](https://data.worldbank.org/)
 
 [World Resoure Institute's Maps and Data section](http://www.wri.org/resources) has both, datasets you can work with as well as already produced datavisualizations 
 
+**Health**
+
+[WHO Data Repository](http://apps.who.int/gho/data/node.home)
+
+**Environment, disasters**
+
+[UNEP Environmental Data Explorer](http://geodata.grid.unep.ch/)
+
+[UNSIDR](https://www.unisdr.org/we/inform/disaster-statistics), the UN's office for Disaster Risk Reduction collects data on disasters from various sources, among them the above mentioned EM-DAT.
+
+[USGS](https://earthquake.usgs.gov/), the US Geological Service, provides data on earthquakes [in various forms](https://earthquake.usgs.gov/data/)
+
+[NOAA data catalogue](https://data.noaa.gov/datasetsearch/) holds more than 60,000 datasets, not only confided to the US. NOAA also collects [global CO2 data](https://www.esrl.noaa.gov/gmd/dv/data/index.php?parameter_name=Carbon%2BDioxide), and you can find data on [sea level rise](https://tidesandcurrents.noaa.gov/sltrends/sltrends.shtml) here as well. [Here's](https://www.ncdc.noaa.gov/data-access) an overview of what different data are collected. They also provide [an archive](https://www.ncdc.noaa.gov/cdo-web/) for historical data.
+
+[NASA](https://data.nasa.gov/) offers different entry points to their dataverse, depending on your proficiency. They also have a [searchable interface](https://data.nasa.gov/browse) as gateway to more than 40,000 entries.
+
+[EM-DAT](https://www.emdat.be/) is a database on natural and technological disasters; it's related to [CE-DAT](http://cedat.be/) which holds information on epidemiological disasters but unfortunately isn't public anymore. 
+
+**Violence, war, weapons**
+
+[Global Terrorism Database](https://www.start.umd.edu/gtd/) by the University of Maryland collects information on terrorism incidents since 1970.
+
+[SIPRI](https://www.sipri.org/databases) has information on arms industry, military expenditure and weapons trade. 
+
 ## Data by region (under construction, tbc)
+
+[PARLgov](http://www.parlgov.org/) contains results of elections within Europe.
 
 **European Union: datasets**
 
@@ -95,9 +119,9 @@ NUTS_RG files -- is what you need if you want to make a choropleth map of Europe
 
 Eurostat lists [contact details and release calendars](http://ec.europa.eu/eurostat/web/links/national_statistical_offices) for each member state's statistics office
 
-| Country     | Statistical Office    | GEO Information    |
-|-------------|-----------------------|--------------------|
-| Germany	  | [Destatis](https://www-genesis.destatis.de/genesis/online/logon?language=en)			  | [Geodatenzentrum](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=eng&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)|
+| Country     | Statistical Office    | GEO Information    | Further     		|
+|-------------|-----------------------|--------------------|--------------------|
+| Germany	  | [Destatis](https://www-genesis.destatis.de/genesis/online/logon?language=en)			  | [Geodatenzentrum](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=eng&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)| [Police Crime Statistics](https://www.bka.de/EN/CurrentInformation/currentinformation_node.html)
 
 
 
