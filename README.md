@@ -20,6 +20,10 @@ I'm happy for any hints and comments either via pull requests or email to gcgrue
 - [List of reasons for doing data journalism](why-data-journalism.md)
 - [List of everything that did not fit in the other lists](ddj-even-more-list.md)
 
+## Cheatsheets
+- [Develop a datajournalism mindset](DDJ-way-of-thinking.pdf)
+- [Story structure: How to place ddj elements](DDJ_StoryStructure_Options.pdf)
+- [DDJ pathway and tools for separate steps](DDJ_Pathway_Resources.pdf)
 
 
 #### Usage and license
